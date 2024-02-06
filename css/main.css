@@ -10,11 +10,12 @@ width: 50%;
 }
 
 .apresentacao__conteudo__titulo {
-
+background-color: white;
+color: black;
 }
 
 .apresentacao__conteudo__texto {
-
+color: black;
 }
 
 .apresentacao__link {
@@ -25,11 +26,11 @@ justify-content: center;
 }
 
 .apresentacao__link__subtitulo {
-
+color: blue;
 }
 
 .apresentacao__imagem {
-
+width: 50%;
 }
 
 .apresentacao__video {
