@@ -1,0 +1,33 @@
+.apresentacao {
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: space-between;
+}
+
+.apresentacao__conteudo {
+width: 50%;
+}
+
+.apresentacao__conteudo__titulo {
+
+}
+
+.apresentacao__conteudo__texto {
+
+}
+
+.apresentacao__link {
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+
+.apresentacao__link__subtitulo {
+
+}
+
+.apresentacao__video {
+    width: 50%;
+}
