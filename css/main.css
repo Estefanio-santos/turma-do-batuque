@@ -29,6 +29,13 @@ justify-content: center;
 color: blue;
 }
 
+.apresentacao__link__links {
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+
 .apresentacao__imagem {
 width: 50%;
 }
